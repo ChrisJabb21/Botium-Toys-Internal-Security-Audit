@@ -1,15 +1,15 @@
-# Botium-Toys-Internal-Security-Audit
-A mock internal security audit assignment done on a fictious toy company as part of cybersecurity portfolio project. Completed as part of Google's Cybersecurity Professional Certificate on Coursera.
+# Internal-Security-Audit-Writeup
+A mock internal security audit assignment done on Botium Toys, fictious toy company as part of cybersecurity portfolio project. Completed as part of Google's Cybersecurity Professional Certificate on Coursera.
 
 -------
 Disclaimer: This activity and my results can be done in many possible ways and can differ. The importance is understanding the choices selected based on scope and expectations for the audit. 
 
-Self-Evaluation: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked when I compare my original work to examples and worked on during my original copy revision.
+Self-Evaluation: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning.
 
 Room for improvement: 
-The part I struggled with was using much details in communicating my results and findings in the stakeholder's memorandum. I spent alot of time hung up on this to try to be more concisely and to the point. I learned to use a list and ensure I didnt repeat anything and to filter out information.
+The part I struggled using much details in compiling all my results and findings in the stakeholder's memorandum. I spent alot of time hung up on this to try to be more concisely and to the point. I learned to use a list and ensure I didnt repeat anything and to filter out information.
 
-I also had trouble understanding the SOC regulation and standard while conducting the audit and spent time researching it.
+I also had trouble in my explaining and tying in the System and Organizations Controls (SOC type 1, SOC type 2) standard to organizational user access policies, confidentiality, privacy, integrity, availability, security, and overall data safety and levels of risks, not just financial compliance, while conducting the audit and spent time researching it.
 
 ------
 
@@ -47,6 +47,8 @@ management
 - Botium Toys: Risk assessment from IT manager
 
 ## Supporting Documents
+- Controls Assessment
+- Compliance checklist
 - Stakeholder memorandum
 
 
@@ -67,6 +69,3 @@ The internal security audit can be broken down into two parts each with their ow
    - consider how to summarize your recommendations clearly and concisely to stakeholders. 
 2. Send findings and recommendations to stakeholders in a concise format
 
---------
-
-# My results
