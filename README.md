@@ -43,18 +43,7 @@ management
 - Establish their policies and procedures, which includes their playbooks
 - Ensure they are meeting compliance requirements
 
-
-### Important Documents
-- Botium Toys's Audit scope and goals document
-- Risk assessment from IT manager document and email
-
-
-### Supporting Documents
-- Controls Assessment
-- Compliance checklist
-- Stakeholder memorandum
-
-
+   
 ## Internal Security Audit Workflow  <a name="workflow">
 The internal security audit can be broken down into two parts each with their own steps to follow.
 
