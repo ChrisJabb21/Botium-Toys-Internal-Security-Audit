@@ -11,9 +11,9 @@
 
 -------
 
-# Introduction <a href="#introduction">
+# Introduction <a href="introduction">
 
-A writeup of an internal security audit assessment done on Botium Toys, fictious toy company   completed as part of my cybersecurity portfolio and as part of Google's Cybersecurity Professional Certificate on Coursera.
+An internal security audit assessment done on Botium Toys, fictious toy company, completed as part of my cybersecurity portfolio and as part of Google's Cybersecurity Professional Certificate on Coursera.
    
 The goal is to perform an audit of Botium Toys’ cybersecurity program. The audit needs
 to align current business practices with industry standards and best practices. The
