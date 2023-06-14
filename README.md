@@ -252,6 +252,6 @@ To secure assets at Botium Toys' phyiscal location, locks and CCTV should be use
 
 **Lessons learned**: 
    
-   The part I struggled using much details in compiling all my results and findings in the stakeholder's memorandum. I spent alot of time hung up on this to try to be more concisely and to the point. I learned to use a list and ensure I didnt repeat anything and to filter out information.
+   The part I struggled with mostly was using much details in my findings in the stakeholder's memorandum. I learned and spent alot of time on this to be more concisely and to the point. I learned to use a list, have my writing proofread and ensure I didnt repeat anything and to filter out information.
    
    I also some trouble initially in explaining how the System and Organizations Controls standard relates to organizational user access policies, confidentiality, privacy, integrity, availability, security, and overall data safety and levels of risks, not just financial compliance while conducting the audit.
